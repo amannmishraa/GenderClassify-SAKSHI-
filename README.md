@@ -1,7 +1,8 @@
 # Gender Classification Model
 
 This repository contains a machine learning model for gender classification using facial images. The model is trained on the [Gender Classification Dataset](https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset) from Kaggle.
-App Interface can be accessed from this URL: (https://www.figma.com/proto/VOcY81587sfLKDOYEAkbSx/App-interface?node-id=74-38&node-type=canvas&t=si87nhfXhPxyu8Yw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=74%3A38&show-proto-sidebar=1).
+
+App Interface can be accessed from this URL: [FIGMA](https://www.figma.com/proto/VOcY81587sfLKDOYEAkbSx/App-interface?node-id=74-38&node-type=canvas&t=si87nhfXhPxyu8Yw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=74%3A38&show-proto-sidebar=1)
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
